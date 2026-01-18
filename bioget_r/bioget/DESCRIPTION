@@ -1,0 +1,10 @@
+Package: bioget
+Title: Bioget - An Unified API to Access Biologic Data
+Version: 0.1.0
+Authors@R: 
+    person("Eliza", "Kishan", , "eliza.kishan@mail.mcgill.ca", role = c("aut", "cre"))
+Description: Allows for the access to major biological databases in a unified, easy-to-use API.
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
